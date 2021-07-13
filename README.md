@@ -24,7 +24,7 @@ If the user clicks on User icon on the Bottom Navigation Bar, then the user will
 
 And if the user clicks on Camera icon, then the user will be on Camera Fragment-
 
-![Screenshot_20210713-102915](https://user-images.githubusercontent.com/64889275/125394191-ed591480-e3c6-11eb-82af-8a20c0f30bd7.png)
+![Screenshot_20210713-102915](https://user-images.githubusercontent.com/64889275/125395224-889eb980-e3c8-11eb-9a4e-a7804ebda812.png)
 
 
 Note that when the user was on move fragment and clicked on move button then the user moved to the camera activity and when the user clicks on camera icon, then the user comes on camera fragment.
